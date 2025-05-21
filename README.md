@@ -1,2 +1,2 @@
-# fitness_tracker
-Fitness Tracker Website
+# Fitness Tracker Website
+#Project Purpose and Features
