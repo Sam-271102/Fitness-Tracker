@@ -33,7 +33,7 @@ Uses average weight assumptions based on gender (75 kg for males, 65 kg for fema
 
 Calculation formula:
 
-Calories=((MET*3.5*weight)/200)*duration
+Calories=((METx 3.5 xweight)/200) x duration
 
 # 4.2 Form Submission Handler
 istens for form submission event and prevents page reload.
