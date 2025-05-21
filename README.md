@@ -13,7 +13,7 @@ Submit the form to see the workout summary and the updated workout progress char
 Repeat the process to track multiple workout sessions.
 
 # 3.Dependencies
-Chart.js :A JavaScript library for rendering responsive and interactive charts.
+Chart.js : A JavaScript library for rendering responsive and interactive charts.
 Included via CDN in the HTML file to visualize workout data.
 # 4.Description of Key Functions or Features
 # 4.1 calculateCalories(type, duration, gender, age)
