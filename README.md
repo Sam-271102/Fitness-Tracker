@@ -12,7 +12,6 @@ Submit the form to see the workout summary and the updated workout progress char
 
 Repeat the process to track multiple workout sessions.
 
-No server or backend setup is required as the app runs fully in the browser.
 # 3.Dependencies
 Chart.js — a JavaScript library for rendering responsive and interactive charts.
 Included via CDN in the HTML file to visualize workout data.
