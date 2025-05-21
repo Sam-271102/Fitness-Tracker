@@ -20,16 +20,23 @@ Included via CDN in the HTML file to visualize workout data.
 # 4.1 calculateCalories(type, duration, gender, age)
 Estimates calories burned using MET values for different exercise types:
 Yoga: MET = 3
+
 Cardio: MET = 8
+
 Battle Ropes: MET = 10
+
 Dumbbell Row: MET = 5
+
 Default MET: 6
+
 Uses average weight assumptions based on gender (75 kg for males, 65 kg for females).
+
 Calculation formula:
+
 Calories=((MET*3.5*weight)/200)*duration
 
 # 4.2 Form Submission Handler
- istens for form submission event and prevents page reload.
+istens for form submission event and prevents page reload.
 
 Extracts form input values.
 
